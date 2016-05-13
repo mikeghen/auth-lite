@@ -1,0 +1,7 @@
+{
+  "stage": "dev",
+  "DDB_TABLE": "auth-lite",
+  "EXTERNAL_NAME": "Auth Lite",
+  "EMAIL_SOURCE": "auth-lite@auth.lite",
+  "VERIFICATION_PAGE": "http://not-a-real-bucket.s3.amazonaws.com/verify.html"
+}

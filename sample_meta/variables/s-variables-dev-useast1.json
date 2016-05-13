@@ -1,0 +1,6 @@
+{
+  "region": "us-east-1",
+  "resourcesStackName": "auth-lite-dev-r",
+  "iamRoleArnLambda": "arn:aws:iam::611312864149:role/auth-lite-dev-r-IamRoleLambda-1KNJG4JBY6OFS",
+  "apiGatewayApi": "auth-lite"
+}
